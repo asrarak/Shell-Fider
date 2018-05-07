@@ -1,7 +1,7 @@
 Alat yang membantu seorang sysadmin mencari backdoor yang telah diupload oleh hacker.
 
--CLI Mode
--Web Based Mode
+- CLI Mode
+- Web Based Mode
 
 
 ```
